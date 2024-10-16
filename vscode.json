@@ -1,0 +1,144 @@
+{
+    "[go]": {
+        "editor.formatOnSave": false
+    },
+    "go.formatTool": "goimports",
+    "text-tables.mode": "org",
+    "debug.toolBarLocation": "docked",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "editor.accessibilityPageSize": 1,
+    "editor.accessibilitySupport": "off",
+    "[xml]": {
+        // "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "workbench.startupEditor": "newUntitledFile",
+    "python.showStartPage": false,
+    "comments.openPanel": "openOnSessionStart",
+    "workbench.preferredLightColorTheme": "Default Dark Modern",
+    "files.exclude": {
+        ".venv/": true,
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.vscode": true,
+        "**/.vstags": true
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "sortLines.filterBlankLines": true,
+    "sortLines.sortEntireFile": true,
+    "sync.removeExtensions": false,
+    "sync.syncExtensions": false,
+    "cmake.configureOnOpen": true,
+    "editor.wordBasedSuggestions": "off",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.suggest.showWords": false,
+    "editor.tabSize": 4,
+    "editor.indentSize": 4,
+    "editor.detectIndentation": false,
+    "workbench.fontAliasing": "auto",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingBrackets": "never",
+    "tabnine.experimentalAutoImports": true,
+    "sqltools.useNodeRuntime": true,
+    "editor.wordWrap": "on",
+    "hexeditor.maxFileSize": 20,
+    "cSpell.userWords": [
+    ],
+    "rewrap.wrappingColumn": 80,
+    // "workbench.colorCustomizations": {
+    //      "editor.background": "#000000"
+    // "textCodeBlock.background": "#111111",
+    // },
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.minimap.enabled": false,
+    "markdown-preview-enhanced.liveUpdate": true,
+    "unotes.editor.convertPastedImages": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "cSpell.enableFiletypes": [
+        "bat",
+        "bibtex",
+        "clojure",
+        "code-text-binary",
+        "coffeescript",
+        "cpp_embedded_latex",
+        "cuda-cpp",
+        "dart",
+        "dockercompose",
+        "dockerfile",
+        "fsharp",
+        "groovy",
+        "hlsl",
+        "markdown-math",
+        "perl",
+        "powershell",
+        "shellscript",
+        "xml"
+    ],
+    "files.eol": "\n",
+    "perl.containerCmd": "",
+    "perl.containerMode": "",
+    "perl.perlCmd": "perl",
+    "perl.showLocalVars": true,
+    "cSpell.diagnosticLevel": "Hint",
+    "perlnavigator.perltidyEnabled": false,
+    "remote.SSH.remotePlatform": {
+        "minecraft": "linux",
+        "wsl": "linux",
+        "pc": "windows"
+    },
+    "editor.fontFamily": "'Cascadia Code', Hack, Menlo, Monaco, 'Courier New', monospace",
+    "git.openRepositoryInParentFolders": "never",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "workbench.editor.empty.hint": "hidden",
+    "autoDocstring.quoteStyle": "'''",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "files.autoSave": "afterDelay",
+    "window.commandCenter": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "workbench.colorTheme": "Visual Studio Light",
+    "search.useIgnoreFiles": false,
+    "workbench.activityBar.location": "hidden",
+    "outline.showConstants": false,
+    "outline.showEnumMembers": false,
+    "outline.showFields": false,
+    "outline.showKeys": false,
+    "outline.showNull": false,
+    "outline.showNumbers": false,
+    "outline.showObjects": false,
+    "outline.showStrings": false,
+    "outline.showVariables": false,
+    "python.analysis.diagnosticMode": "workspace",
+    "redhat.telemetry.enabled": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "terminal.integrated.profiles.windows": {
+        "Cygwin": {
+            "path": "C:\\cygwin64\\bin\\bash.exe",
+            "args": [
+                "--login"
+            ],
+            "env": {
+                "CHERE_INVOKING": "1"
+            }
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Cygwin",
+    "aws.telemetry": false,
+    "aws.suppressPrompts": {
+        "fileViewerEdit": true
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "vscode-icons",
+}
